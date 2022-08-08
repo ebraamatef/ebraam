@@ -1,0 +1,12 @@
+-git init
+-git add . 
+-git commit -m "task"
+-git remote add origin https://github.com/ebraamatef/ebraam-atef
+-git push origin master
+----------------------------------------------------------------
+-git pull origin master
+--------------------------------------------------------------------
+json
+http response status code
+--------------------------------------------------------------------
+PHP view
